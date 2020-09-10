@@ -1,3 +1,5 @@
+```A fork from subTee, who seems to have removed the original short-lived public repo. Not my work. If you're reading this subTee and want me to take it down, I will. Didn't mean to host some private code of yours.```
+
 # GhostLoader
 GhostLoader - AppDomainManager - Injection - 攻壳机动队
 
